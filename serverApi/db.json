@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "12d7a7f6-5b4f-46e7-868a-b076413798d7",
+      "name": "Pavan",
+      "email": "pavansgowda6@gmail.com"
+    },
+    {
+      "id": "047e7013-bf3b-4f80-8cc3-0d360ee2c9e5",
+      "name": "KLE S Nijalingappa College - Rajajinagar Campus",
+      "email": "kle.college.rajajinagar.campus@gmail.com"
+    },
+    {
+      "id": "132b9aba-cb44-4661-95a9-1ecc89d77963",
+      "name": "Anith",
+      "email": "anith@yahoo.com"
+    }
+  ]
+}
